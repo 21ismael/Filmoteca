@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/incredibles_2-349945637-msmall.jpg", Los Increíbles 2
+#EXTINF:-1 tvg-id="losincreibles2.esp" tvg-name="Los Increíbles 2" group-title="Películas" tvg-logo="https://pics.filmaffinity.com/incredibles_2-349945637-msmall.jpg",Los Increíbles 2
 https://fina.dyndns.tv/Peliculas/Los%20Increibles%202.mkv
